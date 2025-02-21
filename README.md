@@ -1,4 +1,5 @@
-## Prerequisites to run the program ##
+## Real-Time Language Translation Using Neural Machine Translation (NMT): Bridging Language Barriers ##
+# Required modules #
 pip install transformers sentencepiece torch gradio
 
 Output:
